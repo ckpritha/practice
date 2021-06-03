@@ -6,6 +6,8 @@ public class second {
 		//second java file
 		
 		System.out.println("Thank you for configure git hub");
-	}
+		
+		System.out.println("Hello world");
+		}
 
 }
