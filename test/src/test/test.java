@@ -6,7 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("connection successful");
-		
+		//jenkins connection successful
 	}
 
 }
